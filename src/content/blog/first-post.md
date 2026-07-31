@@ -1,16 +1,33 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+title: "我的第一篇杂谈"
+date: "2026-07-30"
 ---
+2026年是我人生中很特殊的一年，女友的分手，家人的失语与失能。不过，让我不得不建立网站开始记录的，是我最好的朋友李龙华，在七月末用跳楼的方式
+结束了自己的生命。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+那是2026年7月29日早上7:13，我接到他母亲的电话，带着哭腔问了我几个关于龙华问题，我当时就意识到事情的不对，直到最后她身边的亲戚补上了一句
+“跳楼了”。我的大脑霎时一片空白。我向我父亲打了电话，匆匆从家里拿了1000块钱现金，去现场试图帮忙。去小区的路上，我很快回忆起他家楼层的高度，
+不仅仅是高度条件，印象中的他是一个高执行力的人，而跳楼又是一件很简单的事情。
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+去完殡仪馆回到家，我几乎没有大哭出来。警察那句，我们没有确认他是否真的毕业，给我一点寻找死因的希望。遗憾的是，我之后联系他的校友，他的大学几乎不卡双证。我没有停下找寻步伐，路上我翻阅了卡尔·门铃格尔的《人对抗自己》，下午又去找了心理医生。晚上，我意识到我是在自己骗自己。
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+我或许是这个世界上最能理解他为什么放弃生命的人。
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+“当体制让人失望时，法律就变成了枷锁。”
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+他向我吐槽过他大学的老师，吐槽过CCCP的体制。我告诉他手机上的新闻，谁谁谁谁又用高明的手段迫害老百姓了。
+
+无能为力的人会离开这个社会，深爱这片土地的人，会把自己的羽毛腐烂在泥土里。
+
+写这篇杂谈的时候已经是第二天，我想，每个人有放弃自己生命的权利。在前一天和警察叔叔的交流中，我做出了他从初中到大学十年求学经历中，没有太多的
+消极情绪。从昨天和心理医生的交谈中，我意识到，他或许是“高智商抑郁”，可以用完美的演技和极致的理性掩盖心中的悲悯和自卑。纵深一跃，结束了所以的
+痛苦。
+
+我在他去世的前几天，有明显的心跳加快，刷到一条视频说：“人不一定在某个时间段去做特点的事，比方说，一个15岁的少女，所有人都会告诉她好好学习。
+可是没有人会假设她的生命会停止在15岁。我们应该尊重生命，让生命在每一年感受到应该有的喜怒哀乐。”
+
+从2026年七月末开始，我人生中的大部分娱乐将被剥夺，音乐、小说、动漫、电影。我的大脑会尽可能的保护我，让我想不起和他相关的一切。龙华，你
+是解脱了，你也剥茧抽丝般带走了一部分我。我们之后的故事不会有了，我们之前的故事又太多了。我些许用心的不敢打扰，最后连一句“求你别离开我”都
+来不及说出。
+
+上帝呀，如果您能够听到我说话，请善待他吧！
